@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+a {
+  color: #11999E;
+}
+
+h1 {
+  color: #00587a;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #00587a;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: #968c83;
+  border-top-width: 7px;
+  width: 5%;
+}
+
+p{
+  line-height: 2;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #89beb3;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 70px 0;
+}
+
+.bottom-container {
+  margin-top: 100px;
+  background-color: #89beb3;
+  padding: 50px 0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+
+.top-cloud {
+  position:absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.skills-picture {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pilates-picture {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.my-photo {
+  width: 15%;
+}
+
+.profile-text {
+  width: 30%;
+  position: relative;
+  left: 35%;
+  margin-bottom: 50px;
+}
+
+.sp {
+  margin-top: 100px;
+}
+
+.sp2 {
+  margin: 50px 0;
+}
+
+.sp3 {
+  color: #EAF6F6;
+  margin-top: 30px;
+  font-size: 0.75rem;
+}
+
+.contact-me {
+  margin-top: 100px;
+}
+
+.footer-link {
+  color: #00587a;
+  padding: 0 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 22px;
+   font-weight: 100;
+   padding: 14px;
+   background-color: #89BEB3;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #1E62D0;
+   border: solid #337FED 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
